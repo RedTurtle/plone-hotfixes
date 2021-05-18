@@ -4,7 +4,7 @@ A list of needed hotfixes for each Plone version.
 
 See the [list of available hotfixes](https://plone.org/security/hotfixes)
 
-# usage
+## usage
 
 Extend the right version in your buildout config file:
 
